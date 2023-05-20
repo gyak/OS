@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "malloc.h": "c",
+        "filesys.h": "c",
+        "inode.h": "c",
+        "syscall.h": "c",
+        "vaddr.h": "c"
+    }
+}
